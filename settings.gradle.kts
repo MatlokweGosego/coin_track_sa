@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "coin_track_sa"
+rootProject.name = "CoinTrack SA"
 include(":app")
- 
