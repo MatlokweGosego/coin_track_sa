@@ -1,0 +1,22 @@
+<!-- res/drawable/ic_expense_out.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Wallet/card background -->
+    <path
+        android:fillColor="#E74C3C"
+        android:pathData="M18,4H6C4.9,4 4,4.9 4,6v12c0,1.1 0.9,2 2,2h12c1.1,0 2-0.9 2-2V6c0-1.1-0.9-2-2-2z"/>
+
+    <!-- Money going out arrow -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M15,12l-3,-3v2H7v2h5v2l3,-3z"/>
+
+    <!-- Dollar sign -->
+    <path
+        android:fillColor="#FFCDD2"
+        android:pathData="M16,8v2M16,14v2"/>
+</vector>

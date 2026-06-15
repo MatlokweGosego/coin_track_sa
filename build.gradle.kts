@@ -58,7 +58,10 @@ dependencies {
 
         implementation ("com.airbnb.android:lottie:6.0.0")
 
+    implementation("com.github.PhilJay:MPAndroidChart:v3.1.0")
 
+    implementation("androidx.cardview:cardview:1.0.0")
+    implementation("androidx.activity:activity:1.8.0")
     // Testing
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
